@@ -1,0 +1,574 @@
+[I 00:21:04.398 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 00:21:04.437 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 00:21:04.437 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 00:21:04.439 NotebookApp] Serving notebooks from local directory: /root
+[I 00:21:04.439 NotebookApp] The Jupyter Notebook is running at:
+[I 00:21:04.439 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 00:21:04.439 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:25:06.698 NotebookApp] received signal 15, stopping
+[I 00:25:06.699 NotebookApp] Shutting down 0 kernels
+[I 00:40:02.458 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 00:40:02.694 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 00:40:02.728 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 00:40:02.728 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 00:40:02.731 NotebookApp] Serving notebooks from local directory: /root
+[I 00:40:02.731 NotebookApp] The Jupyter Notebook is running at:
+[I 00:40:02.731 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 00:40:02.731 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:41:04.106 NotebookApp] Clearing invalid/expired login cookie username-notebook-redfoxatasleep-top
+[W 00:41:04.107 NotebookApp] Forbidden
+[W 00:41:04.107 NotebookApp] 403 GET /public/api/sessions?_=1605367938179 (127.0.0.1) 1.63ms referer=https://notebook.redfoxatasleep.top/public/tree?
+[W 00:41:04.311 NotebookApp] Clearing invalid/expired login cookie username-notebook-redfoxatasleep-top
+[W 00:41:04.311 NotebookApp] Forbidden
+[W 00:41:04.312 NotebookApp] 403 GET /public/api/terminals?_=1605367938180 (127.0.0.1) 1.20ms referer=https://notebook.redfoxatasleep.top/public/tree?
+[I 00:41:05.262 NotebookApp] 302 GET /public/tree? (127.0.0.1) 0.79ms
+[I 00:41:11.746 NotebookApp] 302 POST /public/login?next=%2Fpublic%2Ftree%3F (127.0.0.1) 1.27ms
+[C 00:53:50.015 NotebookApp] received signal 15, stopping
+[I 00:53:50.016 NotebookApp] Shutting down 0 kernels
+[I 00:53:51.772 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 00:53:51.808 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 00:53:51.808 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 00:53:51.810 NotebookApp] Serving notebooks from local directory: /root
+[I 00:53:51.810 NotebookApp] The Jupyter Notebook is running at:
+[I 00:53:51.810 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 00:53:51.810 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 00:54:16.021 NotebookApp] received signal 15, stopping
+[I 00:54:16.022 NotebookApp] Shutting down 0 kernels
+[I 00:54:17.815 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 00:54:17.851 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 00:54:17.852 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 00:54:17.854 NotebookApp] Serving notebooks from local directory: /root
+[I 00:54:17.854 NotebookApp] The Jupyter Notebook is running at:
+[I 00:54:17.854 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 00:54:17.854 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 00:56:30.173 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 33.37ms referer=None
+[C 00:58:58.451 NotebookApp] received signal 15, stopping
+[I 00:58:58.452 NotebookApp] Shutting down 0 kernels
+[I 00:59:01.228 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 00:59:01.264 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 00:59:01.265 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 00:59:01.267 NotebookApp] Serving notebooks from local directory: /root
+[I 00:59:01.267 NotebookApp] The Jupyter Notebook is running at:
+[I 00:59:01.267 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 00:59:01.267 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:13:04.697 NotebookApp] received signal 15, stopping
+[I 01:13:04.697 NotebookApp] Shutting down 0 kernels
+[I 01:13:06.446 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 01:13:06.481 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 01:13:06.481 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 01:13:06.484 NotebookApp] Serving notebooks from local directory: /root
+[I 01:13:06.484 NotebookApp] The Jupyter Notebook is running at:
+[I 01:13:06.484 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 01:13:06.484 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 01:13:39.834 NotebookApp] Notebook df0122.ipynb is not trusted
+[I 01:13:40.588 NotebookApp] Kernel started: b3f3cc90-b1a8-4697-857d-6ae1ff2ba9e6
+[I 01:13:41.203 NotebookApp] Adapting to protocol v5.1 for kernel b3f3cc90-b1a8-4697-857d-6ae1ff2ba9e6
+[W 01:13:44.716 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[W 01:13:44.726 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1) 10.55ms referer=https://notebook.redfoxatasleep.top/public/notebooks/df0122.ipynb
+[I 01:14:05.277 NotebookApp] Saving file at /df0122.ipynb
+[W 01:14:05.277 NotebookApp] Notebook df0122.ipynb is not trusted
+[I 01:14:09.067 NotebookApp] Starting buffering for b3f3cc90-b1a8-4697-857d-6ae1ff2ba9e6:05cd872b5a554f51ab3c198676602b73
+[W 01:19:35.460 NotebookApp] 404 GET / (119.23.138.247) 1.91ms referer=None
+[W 03:17:25.392 NotebookApp] 404 GET / (119.23.174.205) 1.59ms referer=None
+[W 04:44:39.305 NotebookApp] 404 GET / (183.136.225.42) 1.45ms referer=None
+[W 05:04:53.516 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.34ms referer=None
+[W 05:52:28.551 NotebookApp] 404 GET / (106.14.187.229) 1.53ms referer=None
+[W 09:24:29.397 NotebookApp] 404 GET / (39.107.14.208) 1.54ms referer=None
+[W 10:37:04.256 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.71ms referer=None
+[W 10:46:54.606 NotebookApp] 404 GET / (139.162.83.10) 1.46ms referer=None
+[W 11:24:56.125 NotebookApp] 404 GET http://example.com/ (69.162.83.246) 1.55ms referer=None
+[W 11:30:15.019 NotebookApp] 404 GET http://example.com/ (69.162.83.246) 1.81ms referer=None
+[W 11:41:20.400 NotebookApp] 404 GET http://example.com/ (69.162.83.246) 1.43ms referer=None
+[W 14:11:28.517 NotebookApp] 404 GET http://example.com/ (69.162.83.246) 1.53ms referer=None
+[W 14:16:02.181 NotebookApp] 404 GET http://example.com/ (69.162.83.246) 1.46ms referer=None
+[I 15:09:02.619 NotebookApp] 302 GET /public/ (127.0.0.1) 0.54ms
+[W 15:09:06.581 NotebookApp] Notebook df0122.ipynb is not trusted
+[I 15:09:10.095 NotebookApp] Kernel shutdown: b3f3cc90-b1a8-4697-857d-6ae1ff2ba9e6
+[I 15:09:16.145 NotebookApp] Creating new notebook in 
+[I 15:09:17.333 NotebookApp] Kernel started: ece04706-6121-4c5f-951e-a488a9478045
+[W 15:09:17.614 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[W 15:09:17.615 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1) 1.73ms referer=https://notebook.redfoxatasleep.top/public/notebooks/Untitled.ipynb?kernel_name=python3
+[I 15:09:17.857 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 15:11:17.753 NotebookApp] Saving file at /psutil.ipynb
+[I 15:13:17.984 NotebookApp] Saving file at /psutil.ipynb
+[I 15:15:18.350 NotebookApp] Saving file at /psutil.ipynb
+[I 15:17:17.992 NotebookApp] Saving file at /psutil.ipynb
+[I 15:19:18.011 NotebookApp] Saving file at /psutil.ipynb
+[I 15:21:18.126 NotebookApp] Saving file at /psutil.ipynb
+[I 15:23:18.059 NotebookApp] Saving file at /psutil.ipynb
+[I 15:25:17.991 NotebookApp] Saving file at /psutil.ipynb
+[I 15:27:18.159 NotebookApp] Saving file at /psutil.ipynb
+[I 15:29:18.121 NotebookApp] Saving file at /psutil.ipynb
+[I 15:31:18.176 NotebookApp] Saving file at /psutil.ipynb
+[I 15:33:17.994 NotebookApp] Saving file at /psutil.ipynb
+[I 15:35:18.030 NotebookApp] Saving file at /psutil.ipynb
+[I 15:37:17.986 NotebookApp] Saving file at /psutil.ipynb
+[I 15:39:18.034 NotebookApp] Saving file at /psutil.ipynb
+[I 15:41:18.298 NotebookApp] Saving file at /psutil.ipynb
+[I 15:45:18.162 NotebookApp] Saving file at /psutil.ipynb
+[I 15:47:18.188 NotebookApp] Saving file at /psutil.ipynb
+[I 15:49:23.619 NotebookApp] Saving file at /psutil.ipynb
+[I 15:51:21.945 NotebookApp] Saving file at /psutil.ipynb
+[I 15:54:48.978 NotebookApp] Saving file at /psutil.ipynb
+[I 15:55:23.206 NotebookApp] Saving file at /psutil.ipynb
+[I 16:13:23.904 NotebookApp] Saving file at /psutil.ipynb
+[I 16:15:23.804 NotebookApp] Saving file at /psutil.ipynb
+[I 16:17:23.743 NotebookApp] Saving file at /psutil.ipynb
+[I 16:19:23.726 NotebookApp] Saving file at /psutil.ipynb
+[I 16:21:12.005 NotebookApp] Saving file at /psutil.ipynb
+[I 16:22:58.415 NotebookApp] Saving file at /psutil.ipynb
+[I 16:23:19.677 NotebookApp] Saving file at /psutil_and_os.ipynb
+[W 17:54:47.860 NotebookApp] WebSocket ping timeout after 119732 ms.
+[I 17:54:52.864 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:1d97ce1fc78442b68b508e1956363ccf
+[W 18:35:42.432 NotebookApp] 404 GET http://www.qq.com/404/search_children.js (106.75.212.83) 1.64ms referer=None
+[W 20:20:18.144 NotebookApp] 404 GET / (119.23.138.247) 1.42ms referer=None
+[W 21:43:57.823 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.52ms referer=None
+[I 22:13:43.134 NotebookApp] Saving file at /psutil_and_os.ipynb
+[I 22:40:39.239 NotebookApp] Saving file at /psutil_and_os.ipynb
+[I 23:55:28.786 NotebookApp] Saving file at /psutil_and_os.ipynb
+[I 23:55:29.603 NotebookApp] Kernel interrupted: ece04706-6121-4c5f-951e-a488a9478045
+[I 23:55:39.177 NotebookApp] Kernel interrupted: ece04706-6121-4c5f-951e-a488a9478045
+[I 23:55:45.270 NotebookApp] Kernel interrupted: ece04706-6121-4c5f-951e-a488a9478045
+[I 23:55:51.667 NotebookApp] Saving file at /psutil_and_os.ipynb
+[I 23:55:58.526 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[W 23:55:58.870 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[W 23:55:58.871 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1) 1.59ms referer=https://notebook.redfoxatasleep.top/public/notebooks/psutil_and_os.ipynb
+anaconda3
+dataway-python-sdk-nodep
+df0122.ipynb
+df0301.ipynb
+df0322.ipynb
+elastic
+elasticsearch-7.9.3-linux-x86_64.tar.gz
+environment.yaml
+imgurls
+jupyter.log
+nohup.out
+pip_requirements.txt
+practice
+psutil_and_os.ipynb
+Python类之上下文管理协议.ipynb
+SQLAlchemy Object Relational Tutorial.ipynb
+supervisor
+test.py
+tmp
+xinguan
+ystemctl list-unit-files
+anaconda3
+dataway-python-sdk-nodep
+df0122.ipynb
+df0301.ipynb
+df0322.ipynb
+elastic
+elasticsearch-7.9.3-linux-x86_64.tar.gz
+environment.yaml
+imgurls
+jupyter.log
+nohup.out
+pip_requirements.txt
+practice
+psutil_and_os.ipynb
+Python类之上下文管理协议.ipynb
+SQLAlchemy Object Relational Tutorial.ipynb
+supervisor
+test.py
+tmp
+xinguan
+ystemctl list-unit-files
+anaconda3
+dataway-python-sdk-nodep
+df0122.ipynb
+df0301.ipynb
+df0322.ipynb
+elastic
+elasticsearch-7.9.3-linux-x86_64.tar.gz
+environment.yaml
+imgurls
+jupyter.log
+nohup.out
+pip_requirements.txt
+practice
+psutil_and_os.ipynb
+Python类之上下文管理协议.ipynb
+SQLAlchemy Object Relational Tutorial.ipynb
+supervisor
+test.py
+tmp
+xinguan
+ystemctl list-unit-files
+anaconda3
+dataway-python-sdk-nodep
+df0122.ipynb
+df0301.ipynb
+df0322.ipynb
+elastic
+elasticsearch-7.9.3-linux-x86_64.tar.gz
+environment.yaml
+imgurls
+jupyter.log
+nohup.out
+pip_requirements.txt
+practice
+psutil_and_os.ipynb
+Python类之上下文管理协议.ipynb
+SQLAlchemy Object Relational Tutorial.ipynb
+supervisor
+test.py
+tmp
+xinguan
+ystemctl list-unit-files
+anaconda3
+dataway-python-sdk-nodep
+df0122.ipynb
+df0301.ipynb
+df0322.ipynb
+elastic
+elasticsearch-7.9.3-linux-x86_64.tar.gz
+environment.yaml
+imgurls
+jupyter.log
+nohup.out
+pip_requirements.txt
+practice
+psutil_and_os.ipynb
+Python类之上下文管理协议.ipynb
+SQLAlchemy Object Relational Tutorial.ipynb
+supervisor
+test.py
+tmp
+xinguan
+ystemctl list-unit-files
+ld: no input files
+ld: no input files
+anaconda3
+dataway-python-sdk-nodep
+df0122.ipynb
+df0301.ipynb
+df0322.ipynb
+elastic
+elasticsearch-7.9.3-linux-x86_64.tar.gz
+environment.yaml
+imgurls
+jupyter.log
+nohup.out
+pip_requirements.txt
+practice
+psutil_and_os.ipynb
+Python类之上下文管理协议.ipynb
+SQLAlchemy Object Relational Tutorial.ipynb
+supervisor
+test.py
+tmp
+xinguan
+ystemctl list-unit-files
+[I 23:57:46.363 NotebookApp] Saving file at /psutil_and_os.ipynb
+[I 23:57:58.742 NotebookApp] Saving file at /psutil_and_os.ipynb
+[I 00:17:27.131 NotebookApp] Saving file at /psutil_and_os.ipynb
+anaconda3
+dataway-python-sdk-nodep
+df0122.ipynb
+df0301.ipynb
+df0322.ipynb
+elastic
+elasticsearch-7.9.3-linux-x86_64.tar.gz
+environment.yaml
+imgurls
+jupyter.log
+nohup.out
+pip_requirements.txt
+practice
+psutil_and_os.ipynb
+Python类之上下文管理协议.ipynb
+SQLAlchemy Object Relational Tutorial.ipynb
+supervisor
+test.py
+tmp
+xinguan
+ystemctl list-unit-files
+[I 00:19:27.565 NotebookApp] Saving file at /psutil_and_os.ipynb
+ld: no input files
+[I 00:21:26.964 NotebookApp] Saving file at /psutil_and_os.ipynb
+[I 00:23:28.912 NotebookApp] Saving file at /psutil_and_os.ipynb
+[W 00:35:28.529 NotebookApp] WebSocket ping timeout after 119890 ms.
+[I 00:35:33.532 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 00:43:57.348 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 00:43:57.348 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 00:45:27.351 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 00:45:32.354 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 01:04:06.109 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 01:04:06.110 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 01:05:36.111 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 01:05:41.117 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 01:24:10.413 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 01:24:10.413 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 01:26:40.416 NotebookApp] WebSocket ping timeout after 119829 ms.
+[I 01:26:45.418 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 02:01:37.907 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 02:01:37.907 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 02:03:07.910 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 02:03:12.913 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 02:21:42.339 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 02:21:42.340 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 02:24:12.341 NotebookApp] WebSocket ping timeout after 119921 ms.
+[I 02:24:17.344 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 02:42:16.226 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 02:42:16.226 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 02:44:46.230 NotebookApp] WebSocket ping timeout after 119878 ms.
+[I 02:44:51.232 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 03:02:26.705 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 03:02:26.706 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 03:04:56.707 NotebookApp] WebSocket ping timeout after 119858 ms.
+[I 03:05:01.710 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 03:39:35.074 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 03:39:35.075 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 03:42:05.076 NotebookApp] WebSocket ping timeout after 119878 ms.
+[I 03:42:10.079 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 03:50:25.058 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 03:50:25.059 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 03:51:55.060 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 03:52:00.062 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 04:00:57.383 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 04:00:57.384 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 04:03:57.385 NotebookApp] WebSocket ping timeout after 119734 ms.
+[I 04:04:02.386 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 04:05:45.498 NotebookApp] 404 GET / (74.120.14.38) 1.52ms referer=None
+[W 04:05:45.956 NotebookApp] 404 GET / (74.120.14.38) 1.49ms referer=None
+[I 04:12:30.463 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 04:12:30.464 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 04:14:00.465 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 04:14:05.467 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 04:32:21.851 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 04:32:21.852 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 04:34:51.856 NotebookApp] WebSocket ping timeout after 119838 ms.
+[I 04:34:56.857 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 05:00:21.291 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 05:00:21.292 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 05:02:51.293 NotebookApp] WebSocket ping timeout after 119888 ms.
+[I 05:02:56.298 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 05:11:17.869 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 05:11:17.870 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 05:12:47.871 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 05:12:52.876 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 05:31:15.475 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 05:31:15.476 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 05:32:45.479 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 05:32:50.481 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 05:51:15.354 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 05:51:15.355 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 05:53:45.356 NotebookApp] WebSocket ping timeout after 119836 ms.
+[I 05:53:50.358 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 05:56:04.191 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.41ms referer=None
+[W 06:02:50.405 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.45ms referer=None
+[I 06:19:06.719 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 06:19:06.720 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 06:20:36.722 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 06:20:41.724 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 06:38:42.904 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 06:38:42.905 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 06:38:45.958 NotebookApp] 404 GET /tree (111.206.250.235) 1.44ms referer=None
+[W 06:40:35.713 NotebookApp] 404 GET / (192.35.168.112) 1.55ms referer=None
+[W 06:41:12.907 NotebookApp] WebSocket ping timeout after 119905 ms.
+[I 06:41:17.909 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 06:59:04.396 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 06:59:04.396 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 07:01:34.400 NotebookApp] WebSocket ping timeout after 119850 ms.
+[I 07:01:39.404 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 07:10:00.647 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 07:10:00.648 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 07:11:30.651 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 07:11:35.652 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 07:46:47.033 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 07:46:47.034 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 07:49:17.037 NotebookApp] WebSocket ping timeout after 119849 ms.
+[I 07:49:22.041 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 08:07:19.732 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 08:07:19.732 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 08:08:49.735 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 08:08:54.738 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 08:27:15.798 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 08:27:15.798 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 08:29:45.800 NotebookApp] WebSocket ping timeout after 119768 ms.
+[I 08:29:50.802 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 08:32:18.256 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 08:32:18.257 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 08:59:27.206 NotebookApp] 404 GET / (172.105.238.87) 1.62ms referer=None
+[W 09:33:18.258 NotebookApp] WebSocket ping timeout after 119960 ms.
+[I 09:33:23.263 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 09:41:41.559 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 09:41:41.560 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 09:43:11.561 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 09:43:16.563 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 10:01:25.384 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 10:01:25.384 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 10:03:55.387 NotebookApp] WebSocket ping timeout after 119929 ms.
+[I 10:04:00.389 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 10:21:43.021 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 10:21:43.022 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 10:24:13.025 NotebookApp] WebSocket ping timeout after 119944 ms.
+[I 10:24:18.026 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 10:43:48.182 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 10:43:48.183 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 11:13:17.718 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.70ms referer=None
+[W 11:23:48.185 NotebookApp] WebSocket ping timeout after 119940 ms.
+[I 11:23:53.189 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 11:32:11.031 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 11:32:11.032 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 11:33:41.033 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 11:33:46.037 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 11:49:27.395 NotebookApp] 404 GET / (106.15.76.92) 1.59ms referer=None
+[I 11:52:14.524 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 11:52:14.525 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 11:53:44.526 NotebookApp] WebSocket ping timeout after 90001 ms.
+[I 11:53:49.528 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 12:02:39.995 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 12:02:39.996 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 12:04:09.999 NotebookApp] WebSocket ping timeout after 90003 ms.
+[I 12:04:15.001 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 12:22:27.045 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 12:22:27.046 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 12:24:57.047 NotebookApp] WebSocket ping timeout after 119930 ms.
+[I 12:25:02.052 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 12:41:04.788 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 12:41:04.788 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 12:42:34.791 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 12:42:39.794 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 13:00:51.421 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 13:00:51.422 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 13:03:21.423 NotebookApp] WebSocket ping timeout after 119884 ms.
+[I 13:03:26.424 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 13:21:14.113 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 13:21:14.114 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 13:23:44.118 NotebookApp] WebSocket ping timeout after 119902 ms.
+[I 13:23:49.121 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 13:41:32.501 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 13:41:32.502 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 13:44:02.503 NotebookApp] WebSocket ping timeout after 119826 ms.
+[I 13:44:07.506 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 13:44:36.914 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 13:44:36.914 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 14:57:58.388 NotebookApp] 405 CONNECT ip.ws.126.net:443 (222.186.136.150) 1.72ms referer=None
+[W 15:37:40.242 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.49ms referer=None
+[W 16:51:36.917 NotebookApp] WebSocket ping timeout after 119917 ms.
+[I 16:51:41.919 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 17:09:22.122 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 17:09:22.123 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 17:11:52.126 NotebookApp] WebSocket ping timeout after 119937 ms.
+[I 17:11:57.129 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 17:20:19.536 NotebookApp] Adapting to protocol v5.1 for kernel ece04706-6121-4c5f-951e-a488a9478045
+[I 17:20:19.537 NotebookApp] Restoring connection for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 17:21:49.539 NotebookApp] WebSocket ping timeout after 90002 ms.
+[I 17:21:54.542 NotebookApp] Starting buffering for ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 17:32:04.120 NotebookApp] 302 GET /public (127.0.0.1) 0.52ms
+[I 17:32:04.144 NotebookApp] 302 GET /public/tree? (127.0.0.1) 0.73ms
+[I 17:32:11.135 NotebookApp] 302 POST /public/login?next=%2Fpublic%2Ftree%3F (127.0.0.1) 1.26ms
+[I 17:32:30.128 NotebookApp] Kernel shutdown: ece04706-6121-4c5f-951e-a488a9478045
+[I 17:32:30.341 NotebookApp] Creating new notebook in 
+[I 17:32:54.164 NotebookApp] Kernel started: ea6c6472-c512-4885-96fe-2d59c4500888
+[I 17:32:54.750 NotebookApp] Adapting to protocol v5.1 for kernel ea6c6472-c512-4885-96fe-2d59c4500888
+[W 17:32:56.921 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[W 17:32:56.923 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1) 3.09ms referer=https://notebook.redfoxatasleep.top/public/notebooks/Untitled.ipynb?kernel_name=python3
+[I 17:34:54.105 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:35:40.418 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:38:54.774 NotebookApp] Saving file at /Untitled.ipynb
+[W 17:40:13.787 NotebookApp] 404 GET /public/api/kernels/ece04706-6121-4c5f-951e-a488a9478045/channels?session_id=7dfbcc5dbd21453981b9b497d720274c (127.0.0.1): Kernel does not exist: ece04706-6121-4c5f-951e-a488a9478045
+[W 17:40:13.788 NotebookApp] 404 GET /public/api/kernels/ece04706-6121-4c5f-951e-a488a9478045/channels?session_id=7dfbcc5dbd21453981b9b497d720274c (127.0.0.1) 3.11ms referer=None
+[W 17:40:22.732 NotebookApp] Replacing stale connection: ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 18:05:05.767 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:06:54.186 NotebookApp] Saving file at /Untitled.ipynb
+[W 18:07:18.361 NotebookApp] Replacing stale connection: ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 18:08:54.112 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:10:54.020 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:12:54.121 NotebookApp] Saving file at /Untitled.ipynb
+[W 18:17:46.812 NotebookApp] Replacing stale connection: ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 18:18:26.166 NotebookApp] Saving file at /Untitled.ipynb
+[I 18:18:38.185 NotebookApp] Saving file at /request_session.ipynb
+[I 18:18:51.829 NotebookApp] Saving file at /request_session.ipynb
+[I 18:20:54.124 NotebookApp] Saving file at /request_session.ipynb
+[I 18:21:31.164 NotebookApp] Saving file at /request_session.ipynb
+[I 18:22:05.367 NotebookApp] Saving file at /request_session.ipynb
+[I 18:22:34.135 NotebookApp] Saving file at /request_session.ipynb
+[I 18:24:54.733 NotebookApp] Saving file at /request_session.ipynb
+[I 18:32:00.206 NotebookApp] Saving file at /request_session.ipynb
+[I 18:32:01.066 NotebookApp] Starting buffering for ea6c6472-c512-4885-96fe-2d59c4500888:1d02ff2fbc134b18b7610a03098a1ff1
+[W 18:37:38.829 NotebookApp] Replacing stale connection: ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 18:48:32.420 NotebookApp] Replacing stale connection: ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[W 19:07:11.122 NotebookApp] Replacing stale connection: ece04706-6121-4c5f-951e-a488a9478045:7dfbcc5dbd21453981b9b497d720274c
+[I 21:39:52.639 NotebookApp] Kernel started: 39ae2b95-56ae-4d51-844c-b7f6ef94088b
+[I 21:39:54.020 NotebookApp] Adapting to protocol v5.1 for kernel 39ae2b95-56ae-4d51-844c-b7f6ef94088b
+[W 21:39:54.426 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[W 21:39:54.427 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1) 1.68ms referer=https://notebook.redfoxatasleep.top/public/notebooks/psutil_and_os.ipynb
+[I 21:39:58.345 NotebookApp] Starting buffering for 39ae2b95-56ae-4d51-844c-b7f6ef94088b:1a59f689cd4c4058884691f3aa39db43
+[I 21:40:02.900 NotebookApp] Kernel shutdown: 39ae2b95-56ae-4d51-844c-b7f6ef94088b
+[I 21:40:03.876 NotebookApp] Kernel shutdown: ea6c6472-c512-4885-96fe-2d59c4500888
+[W 21:42:19.514 NotebookApp] 404 GET / (143.110.208.124) 1.75ms referer=None
+[I 21:57:21.518 NotebookApp] 302 GET /public (127.0.0.1) 0.54ms
+[I 21:57:21.575 NotebookApp] 302 GET /public/tree? (127.0.0.1) 1.01ms
+[I 21:57:28.151 NotebookApp] 302 POST /public/login?next=%2Fpublic%2Ftree%3F (127.0.0.1) 1.73ms
+[I 22:03:23.544 NotebookApp] Creating new notebook in 
+[I 22:03:45.844 NotebookApp] Kernel started: c42de11a-1c36-4eb8-b878-648159f105ca
+[I 22:03:46.408 NotebookApp] Adapting to protocol v5.1 for kernel c42de11a-1c36-4eb8-b878-648159f105ca
+[W 22:03:48.281 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[W 22:03:48.283 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1) 2.86ms referer=https://notebook.redfoxatasleep.top/public/notebooks/Untitled.ipynb?kernel_name=python3
+[I 22:05:45.979 NotebookApp] Saving file at /Untitled.ipynb
+[I 22:07:45.761 NotebookApp] Saving file at /pytz.ipynb
+[I 22:09:46.400 NotebookApp] Saving file at /pytz.ipynb
+[I 22:54:29.029 NotebookApp] Saving file at /pytz.ipynb
+[I 22:54:30.434 NotebookApp] Starting buffering for c42de11a-1c36-4eb8-b878-648159f105ca:f0c7541e699c4d1c9272ad69551b85e2
+[I 22:54:33.770 NotebookApp] Kernel shutdown: c42de11a-1c36-4eb8-b878-648159f105ca
+[I 23:28:24.827 NotebookApp] Kernel started: 43719c0c-f225-470c-878f-8cbe8c791e0b
+[I 23:28:25.557 NotebookApp] Adapting to protocol v5.1 for kernel 43719c0c-f225-470c-878f-8cbe8c791e0b
+[W 23:28:27.481 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1): No such file or directory: biblio.bib
+[W 23:28:27.484 NotebookApp] 404 GET /public/notebooks/biblio.bib (127.0.0.1) 3.11ms referer=https://notebook.redfoxatasleep.top/public/notebooks/psutil_and_os.ipynb
+[I 23:28:39.488 NotebookApp] Starting buffering for 43719c0c-f225-470c-878f-8cbe8c791e0b:55a5e883c7364aac8c874c3b485eb1cf
+[I 23:30:53.016 NotebookApp] Kernel shutdown: 43719c0c-f225-470c-878f-8cbe8c791e0b
+[W 01:16:28.553 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.49ms referer=None
+[W 05:03:06.404 NotebookApp] 404 GET / (119.23.138.247) 1.58ms referer=None
+[W 10:27:22.872 NotebookApp] 404 GET /tree (5.189.162.164) 1.53ms referer=None
+[W 10:58:06.826 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.44ms referer=None
+[W 10:59:31.317 NotebookApp] 404 GET / (47.100.64.9) 1.87ms referer=None
+[W 11:24:30.000 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.96ms referer=None
+[W 11:38:27.990 NotebookApp] 404 GET / (101.132.169.125) 1.43ms referer=None
+[W 11:48:12.387 NotebookApp] 404 GET /cityjson?ie=utf-8 (18.204.208.220) 1.35ms referer=None
+[W 11:54:06.465 NotebookApp] 404 GET / (167.248.133.55) 1.56ms referer=None
+[W 11:54:07.603 NotebookApp] 404 GET / (167.248.133.55) 3.09ms referer=None
+[W 20:35:53.780 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.58ms referer=None
+[W 02:31:48.096 NotebookApp] 404 GET / (74.120.14.38) 1.56ms referer=None
+[W 02:31:48.579 NotebookApp] 404 GET / (74.120.14.38) 1.67ms referer=None
+[I 04:03:46.059 NotebookApp] Malformed HTTP message from 103.145.13.116: Malformed HTTP version in HTTP Request-Line: 'SIP/2.0'
+[W 06:06:15.783 NotebookApp] 404 GET / (196.52.43.101) 1.63ms referer=None
+[W 06:12:23.280 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.47ms referer=None
+[W 08:16:06.130 NotebookApp] 404 GET / (198.98.61.236) 2.75ms referer=None
+[W 11:23:21.838 NotebookApp] 404 GET http://clientapi.ipip.net/echo.php?info=1234567890 (139.162.81.62) 1.91ms referer=None
+[W 13:18:33.242 NotebookApp] 404 GET / (192.35.169.48) 1.57ms referer=None
+[W 13:44:35.993 NotebookApp] 404 GET / (172.105.238.87) 1.50ms referer=None
+[W 14:39:34.820 NotebookApp] 404 GET / (47.98.104.44) 1.57ms referer=None
+[W 15:49:55.921 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (80.82.70.187) 1.47ms referer=None
+[W 16:19:18.777 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (185.216.140.186) 1.49ms referer=None
+[W 19:08:36.312 NotebookApp] 404 GET / (162.142.125.53) 1.54ms referer=None
+[W 19:08:36.857 NotebookApp] 404 GET / (162.142.125.53) 1.44ms referer=None
+[W 20:59:33.302 NotebookApp] 404 GET / (66.240.236.119) 1.57ms referer=None
+[W 20:59:43.669 NotebookApp] 404 GET / (34.78.227.165) 1.63ms referer=None
+[W 23:14:15.219 NotebookApp] 404 GET http://example.com/ (69.162.83.246) 11.63ms referer=None
+[C 23:16:12.642 NotebookApp] received signal 15, stopping
+[I 23:16:12.644 NotebookApp] Shutting down 0 kernels
+[I 23:17:00.916 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 23:17:01.161 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 23:17:01.162 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 23:17:01.164 NotebookApp] Serving notebooks from local directory: /root
+[I 23:17:01.164 NotebookApp] The Jupyter Notebook is running at:
+[I 23:17:01.164 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 23:17:01.164 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:22:05.402 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 23:22:05.451 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 23:22:05.452 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 23:22:05.454 NotebookApp] Serving notebooks from local directory: /root
+[I 23:22:05.454 NotebookApp] The Jupyter Notebook is running at:
+[I 23:22:05.454 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 23:22:05.454 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 21:55:57.462 NotebookApp] [jupyter_nbextensions_configurator] enabled 0.4.1
+[I 21:55:57.906 NotebookApp] JupyterLab extension loaded from /root/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 21:55:57.906 NotebookApp] JupyterLab application directory is /root/anaconda3/share/jupyter/lab
+[I 21:55:57.909 NotebookApp] Serving notebooks from local directory: /root
+[I 21:55:57.909 NotebookApp] The Jupyter Notebook is running at:
+[I 21:55:57.909 NotebookApp] http://(SomeUser or 127.0.0.1):8888/public/
+[I 21:55:57.909 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).

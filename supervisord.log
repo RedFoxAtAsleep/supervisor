@@ -1,0 +1,196 @@
+2020-11-15 00:05:28,787 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:05:28,788 WARN No file matches via include "/root/supervisord/conf/*.ini"
+2020-11-15 00:05:28,794 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:05:28,795 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:05:28,795 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:05:28,795 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:05:28,797 INFO daemonizing the supervisord process
+2020-11-15 00:05:28,798 INFO supervisord started with pid 28901
+2020-11-15 00:05:38,038 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:05:38,038 WARN No file matches via include "/root/supervisord/conf/*.ini"
+2020-11-15 00:05:49,835 WARN received SIGTERM indicating exit request
+2020-11-15 00:05:52,865 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:05:52,865 WARN No file matches via include "/root/supervisord/conf/*.ini"
+2020-11-15 00:05:52,876 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:05:52,876 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:05:52,876 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:05:52,876 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:05:52,879 INFO daemonizing the supervisord process
+2020-11-15 00:05:52,879 INFO supervisord started with pid 28910
+2020-11-15 00:06:20,495 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:06:20,495 WARN No file matches via include "/root/supervisord/conf/*.ini"
+2020-11-15 00:06:37,923 WARN received SIGTERM indicating exit request
+2020-11-15 00:06:43,558 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:06:43,558 WARN No file matches via include "/root/supervisord/conf/*.ini"
+2020-11-15 00:06:43,564 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:06:43,564 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:06:43,565 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:06:43,565 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:06:43,567 INFO daemonizing the supervisord process
+2020-11-15 00:06:43,567 INFO supervisord started with pid 28928
+2020-11-15 00:06:50,724 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:06:50,724 WARN No file matches via include "/root/supervisord/conf/*.ini"
+2020-11-15 00:06:57,599 WARN received SIGTERM indicating exit request
+2020-11-15 00:07:02,981 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:07:02,981 WARN No file matches via include "/root/supervisord/conf/*.ini"
+2020-11-15 00:07:02,987 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:07:02,987 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:07:02,987 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:07:02,987 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:07:02,990 INFO daemonizing the supervisord process
+2020-11-15 00:07:02,991 INFO supervisord started with pid 28937
+2020-11-15 00:09:48,873 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:09:48,873 WARN No file matches via include "/root/supervisor/conf/*.ini"
+2020-11-15 00:10:11,189 WARN received SIGTERM indicating exit request
+2020-11-15 00:10:33,023 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:10:33,023 WARN No file matches via include "/root/supervisor/conf/*.ini"
+2020-11-15 00:10:33,029 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:10:33,029 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:10:33,330 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:10:33,331 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:10:33,334 INFO daemonizing the supervisord process
+2020-11-15 00:10:33,335 INFO supervisord started with pid 29044
+2020-11-15 00:20:44,807 WARN received SIGTERM indicating exit request
+2020-11-15 00:21:02,737 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:21:02,737 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-15 00:21:02,743 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:21:02,743 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:21:02,743 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:21:02,743 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:21:02,745 INFO daemonizing the supervisord process
+2020-11-15 00:21:02,746 INFO supervisord started with pid 29257
+2020-11-15 00:21:03,749 INFO spawned: 'jupyter_notebook' with pid 29258
+2020-11-15 00:21:09,449 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-15 00:25:06,698 WARN received SIGTERM indicating exit request
+2020-11-15 00:25:06,698 INFO waiting for jupyter_notebook to die
+2020-11-15 00:25:06,808 INFO stopped: jupyter_notebook (exit status 0)
+2020-11-15 00:40:01,067 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:40:01,067 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-15 00:40:01,073 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:40:01,073 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:40:01,074 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:40:01,074 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:40:01,081 INFO daemonizing the supervisord process
+2020-11-15 00:40:01,082 INFO supervisord started with pid 29695
+2020-11-15 00:40:02,085 INFO spawned: 'jupyter_notebook' with pid 29701
+2020-11-15 00:40:07,739 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-15 00:53:50,015 INFO waiting for jupyter_notebook to die
+2020-11-15 00:53:50,130 INFO stopped: jupyter_notebook (exit status 0)
+2020-11-15 00:53:50,137 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:53:50,137 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-15 00:53:50,137 INFO Included extra file "/root/supervisor/confs/nginx.ini" during parsing
+2020-11-15 00:53:50,138 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:53:50,138 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:53:50,138 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:53:50,138 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:53:50,138 INFO supervisord started with pid 29695
+2020-11-15 00:53:51,141 INFO spawned: 'jupyter_notebook' with pid 29926
+2020-11-15 00:53:51,142 INFO spawned: 'nginx' with pid 29927
+2020-11-15 00:53:51,201 INFO exited: nginx (exit status 0; not expected)
+2020-11-15 00:53:52,817 INFO spawned: 'nginx' with pid 29932
+2020-11-15 00:53:55,347 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:53:56,363 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-15 00:53:57,644 INFO spawned: 'nginx' with pid 29934
+2020-11-15 00:54:00,172 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:54:03,177 INFO spawned: 'nginx' with pid 29935
+2020-11-15 00:54:05,705 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:54:05,705 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2020-11-15 00:54:16,021 INFO waiting for jupyter_notebook to die
+2020-11-15 00:54:16,133 INFO stopped: jupyter_notebook (exit status 0)
+2020-11-15 00:54:16,140 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:54:16,140 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-15 00:54:16,140 INFO Included extra file "/root/supervisor/confs/nginx.ini" during parsing
+2020-11-15 00:54:16,141 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:54:16,141 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:54:16,141 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:54:16,141 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:54:16,141 INFO supervisord started with pid 29695
+2020-11-15 00:54:17,144 INFO spawned: 'jupyter_notebook' with pid 29947
+2020-11-15 00:54:17,146 INFO spawned: 'nginx' with pid 29948
+2020-11-15 00:54:17,222 INFO exited: nginx (exit status 0; not expected)
+2020-11-15 00:54:18,860 INFO spawned: 'nginx' with pid 29953
+2020-11-15 00:54:21,390 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:54:22,391 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-15 00:54:23,394 INFO spawned: 'nginx' with pid 29961
+2020-11-15 00:54:25,923 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:54:29,654 INFO spawned: 'nginx' with pid 29964
+2020-11-15 00:54:32,182 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:54:32,183 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2020-11-15 00:58:58,451 INFO waiting for jupyter_notebook to die
+2020-11-15 00:58:59,562 INFO stopped: jupyter_notebook (exit status 0)
+2020-11-15 00:58:59,569 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 00:58:59,569 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-15 00:58:59,569 INFO Included extra file "/root/supervisor/confs/nginx.ini" during parsing
+2020-11-15 00:58:59,569 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:58:59,570 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 00:58:59,570 INFO RPC interface 'supervisor' initialized
+2020-11-15 00:58:59,570 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 00:58:59,570 INFO supervisord started with pid 29695
+2020-11-15 00:59:00,573 INFO spawned: 'jupyter_notebook' with pid 30032
+2020-11-15 00:59:00,574 INFO spawned: 'nginx' with pid 30033
+2020-11-15 00:59:00,647 INFO exited: nginx (exit status 0; not expected)
+2020-11-15 00:59:02,272 INFO spawned: 'nginx' with pid 30038
+2020-11-15 00:59:04,801 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:59:06,256 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-15 00:59:07,259 INFO spawned: 'nginx' with pid 30040
+2020-11-15 00:59:09,789 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:59:12,792 INFO spawned: 'nginx' with pid 30041
+2020-11-15 00:59:15,328 INFO exited: nginx (exit status 1; not expected)
+2020-11-15 00:59:15,328 INFO gave up: nginx entered FATAL state, too many start retries too quickly
+2020-11-15 01:13:04,696 INFO waiting for jupyter_notebook to die
+2020-11-15 01:13:04,808 INFO stopped: jupyter_notebook (exit status 0)
+2020-11-15 01:13:04,816 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-15 01:13:04,816 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-15 01:13:04,816 INFO Included extra file "/root/supervisor/confs/nginx.ini" during parsing
+2020-11-15 01:13:04,816 INFO RPC interface 'supervisor' initialized
+2020-11-15 01:13:04,817 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-15 01:13:04,817 INFO RPC interface 'supervisor' initialized
+2020-11-15 01:13:04,817 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-15 01:13:04,817 INFO supervisord started with pid 29695
+2020-11-15 01:13:05,820 INFO spawned: 'jupyter_notebook' with pid 30694
+2020-11-15 01:13:05,821 INFO spawned: 'nginx' with pid 30695
+2020-11-15 01:13:11,136 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-15 01:13:11,137 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-18 23:16:11,600 INFO waiting for jupyter_notebook, nginx to die
+2020-11-18 23:16:11,641 WARN received SIGTERM indicating exit request
+2020-11-18 23:16:12,642 INFO stopped: nginx (exit status 0)
+2020-11-18 23:16:13,873 INFO stopped: jupyter_notebook (exit status 0)
+2020-11-18 23:16:52,560 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-18 23:16:52,561 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-18 23:16:52,561 INFO Included extra file "/root/supervisor/confs/nginx.ini" during parsing
+2020-11-18 23:16:52,600 INFO RPC interface 'supervisor' initialized
+2020-11-18 23:16:52,600 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-18 23:16:52,602 INFO RPC interface 'supervisor' initialized
+2020-11-18 23:16:52,602 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-18 23:16:52,618 INFO daemonizing the supervisord process
+2020-11-18 23:16:52,619 INFO supervisord started with pid 1372
+2020-11-18 23:16:53,641 INFO spawned: 'jupyter_notebook' with pid 1496
+2020-11-18 23:16:53,643 INFO spawned: 'nginx' with pid 1497
+2020-11-18 23:16:58,666 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-18 23:16:58,666 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-18 23:21:56,825 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-18 23:21:56,826 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-18 23:21:56,826 INFO Included extra file "/root/supervisor/confs/nginx.ini" during parsing
+2020-11-18 23:21:56,866 INFO RPC interface 'supervisor' initialized
+2020-11-18 23:21:56,866 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-18 23:21:57,168 INFO RPC interface 'supervisor' initialized
+2020-11-18 23:21:57,168 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-18 23:21:57,172 INFO daemonizing the supervisord process
+2020-11-18 23:21:57,173 INFO supervisord started with pid 844
+2020-11-18 23:21:58,176 INFO spawned: 'jupyter_notebook' with pid 1213
+2020-11-18 23:21:58,178 INFO spawned: 'nginx' with pid 1214
+2020-11-18 23:22:03,200 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-18 23:22:03,201 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-20 21:55:45,988 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2020-11-20 21:55:45,990 INFO Included extra file "/root/supervisor/confs/jupyter_notebook.ini" during parsing
+2020-11-20 21:55:45,990 INFO Included extra file "/root/supervisor/confs/nginx.ini" during parsing
+2020-11-20 21:55:46,015 INFO RPC interface 'supervisor' initialized
+2020-11-20 21:55:46,015 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2020-11-20 21:55:46,321 INFO RPC interface 'supervisor' initialized
+2020-11-20 21:55:46,321 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2020-11-20 21:55:46,331 INFO daemonizing the supervisord process
+2020-11-20 21:55:46,331 INFO supervisord started with pid 1586
+2020-11-20 21:55:47,343 INFO spawned: 'jupyter_notebook' with pid 1587
+2020-11-20 21:55:47,344 INFO spawned: 'nginx' with pid 1588
+2020-11-20 21:55:52,351 INFO success: jupyter_notebook entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)
+2020-11-20 21:55:52,351 INFO success: nginx entered RUNNING state, process has stayed up for > than 5 seconds (startsecs)

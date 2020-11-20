@@ -1,0 +1,16 @@
+# supervisord.service
+
+[Unit] 
+Description=Supervisor daemon
+
+[Service] 
+Type=forking 
+ExecStart=/root/anaconda3/bin/supervisord -c /root/supervisor/supervisor.conf 
+ExecStop=/root/anaconda3/bin/supervisorctl -c /root/supervisor/supervisor.conf shutdown 
+ExecReload=/root/anaconda3/bin/supervisorctl -c /root/supervisor/supervisor.conf reload 
+KillMode=process 
+Restart=on-failure 
+RestartSec=42s
+
+[Install] 
+WantedBy=multi-user.target

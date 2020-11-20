@@ -1,0 +1,6 @@
+echo_supervisord_conf > supervisord.conf
+
+supervisord                                   #默认去找$CWD/supervisord.conf，也就是当前目录
+supervisord                                   #默认$CWD/etc/supervisord.conf，也就当前目录下的etc目录
+supervisord                                   #默认去找/etc/supervisord.conf的配置文件
+supervisord -c /path/to/supervisord.conf      #到指定路径下去找配置文件
